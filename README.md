@@ -2,13 +2,13 @@
 Sniff Account and Password facebook with Ngrok
 
 # Linux Install
-apt-get install php
-apt-get install curl
-apt-get install unzip
+1. apt-get install php
+2. apt-get install curl
+3. apt-get install unzip
 # Termux Install
-pkg install php
-pkg install curl
-pkg install unzip
+1. pkg install php
+2. pkg install curl
+3. pkg install unzip
 
 # Usage
 1. git clone https://github.com/foolsteams/DagFacebook
